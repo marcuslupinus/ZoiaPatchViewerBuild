@@ -4,7 +4,7 @@ Already-build distribution of ZoiaPatchViewer desktop app For Windows.
  
 ## How to Install
 
-Download the ZIP file.  Extract it's content then execute the .msi file.
+Download the ZIP file found in the Builds folder.  Extract it's content then execute the .msi file.
 
 ## What is ZoiaPatchViewer
 
